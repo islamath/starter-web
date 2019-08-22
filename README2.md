@@ -11,3 +11,7 @@ As stated above, the main purpose is to provide simple examples for Git training
 
 a simple web project.
 ## How To Contribute
+
+## Copyright
+
+RAHIM CopyRight 2019
