@@ -18,4 +18,4 @@ Please fork this repo and issue pull requests
 
 ## Copyright
 
-RAHIM CopyRight 2019
+All Rights Reserved, RAHIM 2019
